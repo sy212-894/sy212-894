@@ -1,5 +1,7 @@
-## My Git Animals
-
-<a href="https://github.com/sy212-894/gitanimals">
-  <img src="https://render.gitanimals.org/farms/sy212-894"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=sy212-894&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/sy212-894"
+  width="600"
+  height="300"
+/>
 </a>
